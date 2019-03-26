@@ -53,7 +53,7 @@ h3{
   top: 10px;
   color: #262626;
 }
-.loginBox input[type="submit"]{
+.loginBox input[type="button"]{
   border: none;
   outline: none;
   height: 40px;
